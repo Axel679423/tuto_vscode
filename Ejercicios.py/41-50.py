@@ -116,7 +116,7 @@ while True:
         break
 print('Gracias por jugar')
 
-#Ejercicio 50: Mostrar los numeros del 1 al 1oo pero reemplazando los multiplos de 3 por 'Fizz' y los multiplos de 5 por 'Buzz
+#Ejercicio 50: Mostrar los numeros del 1 al 100 pero reemplazando los multiplos de 3 por 'Fizz' y los multiplos de 5 por 'Buzz
 
 numero4 = 1
 while numero4 <= 100:
