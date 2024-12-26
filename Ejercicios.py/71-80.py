@@ -48,3 +48,8 @@ Circulo1 = Circulo(10)
 
 print (f'El area es {Circulo1.CalcularAreaC()}')
 print (f'El perimetro es {Circulo1.CalcularPerimetroC()}')
+
+'''
+Ejercicio 73: Crear una clase libro, con atributos: titulo, autor,
+editorial, año de publicacion, con el metodo constructor para inicializar los atributos
+'''
